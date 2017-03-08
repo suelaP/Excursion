@@ -1,0 +1,1364 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_163584eb2f34d3f93947c2df2252d78388717c08.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-safetynet-9.0.2_c472ec8a354af54411511b4135b0b48499c87369\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c2dc3f0f2a1a49786bcd3bdebe1abe927028a06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_e5d86eae3dac8d1fa4b9cf8d90805fc1753fc90f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-crash-9.0.2_1631979b0527a6e37fbdffc71725f501e2948589\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="ab97fb3acd4c402f77e00fa4ee8ce736883a3903">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\instant-run_1d40ff9bcc80e17ac6853ddd31be0a9eb87cfc6d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.2_1a04ef39897b2b19c1e763f599190e2e71e0e53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.2_e05946e96c8bbc80ad632e976cf03fb28ded2dad.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-vision-9.0.2_5c32a17497b912f2b267637ae27137e2b0a165e0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\incremental-runtime-classes\debug\instant-run.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5d75c60071f88a6b392c9cc33538f232c7c77c07">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run_58272f9bd5d69c9b6b59840a29c085efd820a14e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-appcompat-v7-23.0.1_c2dc3f0f2a1a49786bcd3bdebe1abe927028a06d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.2_ad3a065596151a3074a25adba4da8450b327d8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.2_631c98bf3c7820efef1e8fbde180322894627d20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-impl-9.0.2_09cda23476a0c62ebc4c3d01ee1722d5cdc33cb0\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-connection-9.0.2_ab702c7a87f173843450a09c17527c323ef73ab3\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wearable-9.0.2_e36f13039dc64fa57595f76bbfcef8a258348304\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.2_36372577b56a827e0ab27054887021c80d9438c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_0022047e5924c70fe8f1ad19b35aac7b2f35ff8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-safetynet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b6af089f583d547bcffc0689b2e80bc7aaa54b15">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-safetynet-9.0.2_e05946e96c8bbc80ad632e976cf03fb28ded2dad.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.2_00e9e92c356e87607a9b8c6eb106cdb75d2dcbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-9.0.2_1a04ef39897b2b19c1e763f599190e2e71e0e53f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.1_e5d86eae3dac8d1fa4b9cf8d90805fc1753fc90f.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-iid-9.0.2_7e993f0111da1c31af63f87782ea7aea8a83a2f8\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-games-9.0.2_00e9e92c356e87607a9b8c6eb106cdb75d2dcbc1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.2_646d5686ae8edc59c918967063b82b50ec3629e8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_8496500879690a652237ed225e62342d3186efe4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_83676807229e344ee5d98b2e8f5ee90735dbc5c3.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-gcm-9.0.2_0995db7537d116717a736d61d2f29ad7220df0f3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-module-9.0.2_631c98bf3c7820efef1e8fbde180322894627d20.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\libs\internal_impl-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aa92916125166649d8ad4ba3940c3dd7515596d3">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.1_430993fd6216f1c16a7bd7dca6c1a9f8d1fcf4d4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-api-9.0.2_e015a44b7fa6a53ac4b59effa8a9e8de2c6aa4fa\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.2_d51ce56e2fee4c9e3ead831d197968003088667f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tasks-9.0.2_0022047e5924c70fe8f1ad19b35aac7b2f35ff8c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.2_0766e3c7428a56350be13d5c9bac1e6c89dd4e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.2_2f89eab76b5124efd079d5e6b2ccc3fb5f9be7dd.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.2_07e11f594abc7dab7442cc420bd2824a5b493b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-fitness-9.0.2_36372577b56a827e0ab27054887021c80d9438c1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.2_4c14ca0ebef3d697a008e5f8e63afa636d69f06e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-nearby-9.0.2_a43b64ec86d5b16784a589822a2df81da85484d6\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_5f159133da353799db101957188c6d5887e43182.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\support-annotations-23.0.1_83676807229e344ee5d98b2e8f5ee90735dbc5c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.2_baaa282ad085fa3b86c178341e64d01ed3f25d31.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\AppData\Local\Android\sdk\extras\android\m2repository\com\android\support\support-annotations\23.0.1\support-annotations-23.0.1.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="1fce89a6428c51467090d7f424e4c9c3dbd55f7e">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\support-annotations-23.0.1_83676807229e344ee5d98b2e8f5ee90735dbc5c3.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-common-9.0.2_8496500879690a652237ed225e62342d3186efe4.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\internal_impl-23.0.0_b88ce98541c5a341168a6e5f5747c012e006fb7e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.2_cbf8d8ed0b631f01c7c7df745b2d4db8e64a361a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-nearby\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="7e52b440a26498c56b4f263e215223b5451c955e">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-nearby-9.0.2_0766e3c7428a56350be13d5c9bac1e6c89dd4e66.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="5f3a2a315a52fb1b4318e5ed2fdcad7272162fb8">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\instant-run-bootstrap_21b09499ff8972757b04e55f9101327dafa69bc8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-games\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a498fab72f8663c26fbf3d4496eb6b673b17bcae">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-games-9.0.2_29810031bfacf9548487a8691e5aa4a38aafc29f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-mediarouter-v7-23.0.0_7d8cf4108b0a4426e268a07778b17c95a83e5d20\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-9.0.2_2f89eab76b5124efd079d5e6b2ccc3fb5f9be7dd.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.android.support\appcompat-v7\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d86429b0f0b3f3cafbeb78dda1b9d89119ccb05d">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-appcompat-v7-23.0.1_7c2063a29aa0bf10491ef7b7734255f408c496a5\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-9.0.2_a318074ac3f5364d33dbde0e7c42bfc3aedb2110\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-base-9.0.2_97d3427d42e5249947b57e2a829ed7a54800ae46\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-impl-9.0.2_ce78e5b9c4bdb3d197f4bb52fc46a77902348dd3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.2_159649cad6b67dcf712df4f18649d905401571c2.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-9.0.2_4c14ca0ebef3d697a008e5f8e63afa636d69f06e.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-common-9.0.2_98bcca3dd3b9036f47ede0fd274eb2b4f466756d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="568d5bda0b4d51f90d978ace369bb9ad024d2057">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-common-9.0.2_ad3a065596151a3074a25adba4da8450b327d8a0.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_03de3052868fb92a84932ad16c6587bb08cf8a37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-messaging-9.0.2_c7819e87dd209c04a0c933b2595deb2257b2ab53\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth-module\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="79e298d7fed2fcada58da7032d07d34ee198a545">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-module-9.0.2_b640d0151fe73e63a9636d15b754dc22628cd7c4\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-identity-9.0.2_d51ce56e2fee4c9e3ead831d197968003088667f.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-base-9.0.2_cbf8d8ed0b631f01c7c7df745b2d4db8e64a361a.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_043a32754915763738bd13901b7903ccf840365a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-analytics-9.0.2_c097ae091023f817ae98291fc41ae2ef784bea3e\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.2_ee66e80fb7c1a93c162e0e04f9db09a8c710be49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-drive-9.0.2_5126b5b10c68b73c030605e830f0b2d2364a0f09\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.2_6b97b4bc706f765a7c2b6e04ca4f7102f8ad5c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.2_ca653b0b1e3911ef04ca328f2268b633d05ec583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.2_9216eb1df43be97f1eff25b16d6c5ff4f2fb942d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.2_6fc53107ea00ecc8e6198c6cd6a0b1e4f5fb91fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-messaging\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f2774b1e02e5fbc524590311a744263c3b152d63">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-messaging-9.0.2_159649cad6b67dcf712df4f18649d905401571c2.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-panorama-9.0.2_83c573b4265b7a01b395f97a2f92c80a27530121\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.2_4969ba61edf7457f926f127ec426f285c1b73912.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-plus-9.0.2_bc269d262babfa4623291980da649fe535359d65\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-iid-9.0.2_05219167c940c42069cd83872a5b4f3f568b94f1\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.2_0565b4a2f8844c4c580d2bcc465fe055a2140d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.2_e03e16f11545ea3b95198a12113ecb9f223b7dd7.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.2_2f727a4f4c555aba198d724229cf699a917584b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d358b3dd49a7c67844622dcbc9cf4339e13952ce">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-mediarouter-v7-23.0.0_03de3052868fb92a84932ad16c6587bb08cf8a37.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.android.support-support-v4-23.0.1_84659f499d21edac23f756ac4d2edb1b2fef5ffd\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appinvite-9.0.2_098aac31bd56f3e121d3c5d0353daa75ead863a7\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.2_e29d8433ae5b5d7a76df9b4897e41d7263a1b0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.2_229411230042a8de905c334e4a658ee4e9f8652b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-9.0.2_fc70198515276c68a56d09f785d8ed251e4efd0e\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-config-9.0.2_fe01d88e8b22b4acb6aabc6b09ef5cfb413168e5\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.2_9d57eff4c5d0799ed7bcd6a34c5755e1aef292ef.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\mediarouter-v7\23.0.0\jars\libs\internal_impl-23.0.0.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="03d38bb042efe3e5ce27ba66b729a9523c36d8fe">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\internal_impl-23.0.0_043a32754915763738bd13901b7903ccf840365a.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\incremental-classes\debug\instant-run-bootstrap.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c3532690632a6be300520ca99c2c62f59ff0b3e5">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\instant-run-bootstrap_65da125b5bd63febea7444b271cd03557712dbbc\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6c58c14d15602fea2c50138c73bb107e8b832b62">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-analytics-impl-9.0.2_9216eb1df43be97f1eff25b16d6c5ff4f2fb942d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wallet-9.0.2_e29d8433ae5b5d7a76df9b4897e41d7263a1b0f6.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.2_df5a8c3e47fa33311a9761606513f1086ee5e5d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-config\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="604ecf403feb0084dc6d0c12f1677a490cf45e4c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-config-9.0.2_07e11f594abc7dab7442cc420bd2824a5b493b96.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database-connection\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9819419ce8d79f3f81a0fc70f9345ac8c843af9c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-database-connection-9.0.2_ee66e80fb7c1a93c162e0e04f9db09a8c710be49.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tagmanager-9.0.2_b8fcdc3be172ceed86faf268465d636d3724e92d\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-lite-9.0.2_00117f3f8fbeb56032eee77a16b106da1079588f\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-crash\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="922c24fbfc4247947fcfaf2b95f295a16a8c3d17">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-crash-9.0.2_ca653b0b1e3911ef04ca328f2268b633d05ec583.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="94d9cedd04b124aed044ac71c451a292856d854c">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-base-9.0.2_5f159133da353799db101957188c6d5887e43182.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.2_d1d3ae651bf2fe85f2bd3f463eb21a2bc8b5b109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.2_8529a4427c7544afb23a316a2af57575ca514d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager-api\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f399a2fde7888450cadcaec4974bfd169d8cce43">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-api-9.0.2_4969ba61edf7457f926f127ec426f285c1b73912.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-appindexing-9.0.2_0afd51781e6cf3864eecda586faff18d329fe8f4\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-cast-9.0.2_d5c69fedca464a95499d3a4a502a34ce8415059c\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-auth-9.0.2_694e5e72397d2f3bf10b8f2631fcca9da5f5def3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cf16220db9128d91a215aedc739584181d5ca6a4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-iid-9.0.2_baaa282ad085fa3b86c178341e64d01ed3f25d31.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth-base\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="829c6e46cb221c2102801221c648b77113743e81">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-auth-base-9.0.2_c4fce35a5c77efd5c3547abedf8add0a11f868e9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-gcm\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e6970f0554f9508c041f1f6960af15cc888c9f35">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-gcm-9.0.2_2f727a4f4c555aba198d724229cf699a917584b1.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fa472b7cbd3897bf6bed6068ac0b00e494987688">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-auth-9.0.2_9d57eff4c5d0799ed7bcd6a34c5755e1aef292ef.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tasks\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="aec1bc54964a85d851c2c1b1cb7f90f7dbd755ab">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-tasks-9.0.2_6855f6959bb4cfca51d89a6aaf6534837e8de50c\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-cast\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a45bc1ed812137b21dddd1cedaa3712b308f0b3f">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-cast-9.0.2_df5a8c3e47fa33311a9761606513f1086ee5e5d4.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.2_a19528a824b55c9a6d97ee14dff1742b0186b85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.2_4b98cc1094571ae6f32316e8a67dfcb20556f2b8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-identity\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="0c835e9f3875cf245877c9b17d1c69bc98f16057">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-identity-9.0.2_636dbd282a0bc342b90f1a9099a6cdce8176e180\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="9919563cffd8e3732e944d3c437d4b9575a08448">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-common-9.0.2_0b9f097fe42f21e59b7f5e78a338eb110d6217c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.2_7e7108df3579c605c8ebdbf87106d621df67d28c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appinvite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="e11da70cff6a544a45cdc21f419802d9bb9043ac">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appinvite-9.0.2_8529a4427c7544afb23a316a2af57575ca514d0d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics-impl\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="a511c684ea4c2cf31a3377d51e7677cb76696e07">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-impl-9.0.2_d1d3ae651bf2fe85f2bd3f463eb21a2bc8b5b109.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_5f2e37e7cb861a289a1d8521c9e788e1dcfd6959.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-fitness\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="53f10fcd322a3931495d6ca2078a81f4957cdbce">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-fitness-9.0.2_81713577073115c8518839ee3bd7a70f1915ba73\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads-lite\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b8e0372ca6dc89ac4fe22b76eeea4f68ece435b8">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-ads-lite-9.0.2_4b98cc1094571ae6f32316e8a67dfcb20556f2b8.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-common-9.0.2_646d5686ae8edc59c918967063b82b50ec3629e8.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-basement-9.0.2_4a938af2ccb18124fd1b2671309890ffb2d432c3\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.2_31f14de02bc56ce175de76ffe39a2a40cbf2c976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_b2d2877d36072456bc5a23f73a9bfbe0469dbe29.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.2_fd2c59d9907f886b2143019ee827bc96d1bf408d.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_2679ab56d2da430dca40ca380c97b15027e16656.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage-common\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="6ff48ef26bc539c78af4aa061cb9bad6abcbf5e8">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-storage-common-9.0.2_418ecd8eca010cebbf3a5a6c5230d1e4739cd209\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-location-9.0.2_d0d52c01ac0b80939c8cd35781a8c0812ba01bd9\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-tagmanager\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d9ea4cdaafa29ec4651d6e4715788d3fcaa7b913">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-tagmanager-9.0.2_6b97b4bc706f765a7c2b6e04ca4f7102f8ad5c0e.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-auth\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="060a7157438a0b1b0706b99c430fb3ecbc5a79a4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-auth-9.0.2_6fc53107ea00ecc8e6198c6cd6a0b1e4f5fb91fa.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-iid\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="b3d0809a742c5f768c6aa9efc6decd5c1d6cd227">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-iid-9.0.2_163584eb2f34d3f93947c2df2252d78388717c08.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-appindexing\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="d900f2a1ff098cac8befe6c023d723e9afb154be">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-appindexing-9.0.2_a19528a824b55c9a6d97ee14dff1742b0186b85b.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-vision\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="2ab5be19bbd34bae74662ea6b2d4451314d92d97">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-vision-9.0.2_7e7108df3579c605c8ebdbf87106d621df67d28c.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-basement\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4022261eeea0d92eb2997a68d2c1f084a16abad9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-basement-9.0.2_5f2e37e7cb861a289a1d8521c9e788e1dcfd6959.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_e5814bcf0da4406f27fbdb98576a4e905b3b0146.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.2_ff5aebbe731e9895d8996f210af09efd3fad3909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-storage\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="cd4c7c54e15d9ccbc448384fa2c4684d69ca73f0">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-storage-9.0.2_229411230042a8de905c334e4a658ee4e9f8652b.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-ads\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="f4fb6981392ca7680d02fd57d26d6124c141d9d9">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-ads-9.0.2_bfd351f7af436f3fa9df266c7c78541c5bd62c45\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wearable\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="764d32faf85bc6f7bd2cdcb3a70a482c1884fdd2">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-wearable-9.0.2_ff5aebbe731e9895d8996f210af09efd3fad3909.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.android.support\support-v4\23.0.1\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c31e21b53ff2f74664e498248d01453a32e32d48">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.android.support-support-v4-23.0.1_e5814bcf0da4406f27fbdb98576a4e905b3b0146.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.firebase\firebase-database\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="4ec890171a97b5ab98292f131aa784e0f3792c73">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.firebase-firebase-database-9.0.2_48caef5b7cb102c3949744c950bb29a38c7f0c5d\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.firebase\firebase-analytics\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="51a11c41a08f099a204e1b8dcc04f27217de50ec">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.firebase-firebase-analytics-9.0.2_e03e16f11545ea3b95198a12113ecb9f223b7dd7.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-analytics\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="fe5b47e764869f1076cb9cfe12801ed2ef4e9117">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-analytics-9.0.2_fb514f8d2052e10b412fffe9cb802fe8181e2a1f\classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-maps-9.0.2_2e57fa6d07343cadd1caccb30278c9dfbdad0b6a\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-panorama\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="8c0fc9b1ea0bac0cb31d60c8b1bf2feb0518e3a9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-panorama-9.0.2_0565b4a2f8844c4c580d2bcc465fe055a2140d17.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-location\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="92a1d5f71b0fc8938f1d3f2e6ef984b52b894b4d">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-location-9.0.2_b2d2877d36072456bc5a23f73a9bfbe0469dbe29.jar" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-wallet\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="bc156efaaee99f1ef6bf471347373a4cbb28e2a1">
+        <dex dex="C:\Users\user\Desktop\Gjejshokun\app\build\intermediates\transforms\dex\debug\folders\1000\10\com.google.android.gms-play-services-wallet-9.0.2_1deaf98ac078d1d4d34344b986c2363d73ef98ff\classes.dex" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-drive\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="143813b18381b28de1e04aae1d92fcb374a0add9">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-drive-9.0.2_31f14de02bc56ce175de76ffe39a2a40cbf2c976.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-maps\9.0.2\jars\classes.jar"
+        jumboMode="true"
+        optimize="true"
+        revision="23.0.0"
+        sha1="20e1a0f0de6276a5f36062b655f8b20f8cc00cc4">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-maps-9.0.2_2679ab56d2da430dca40ca380c97b15027e16656.jar" />
+    </item>
+    <item
+        is-multidex="false"
+        jar="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\exploded-aar\com.google.android.gms\play-services-plus\9.0.2\jars\classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="23.0.0"
+        sha1="c96952c162c9f6076f44c5939982cb35491442ea">
+        <dex dex="C:\Users\user\Downloads\android_mysql_CRUD_Tutorial\MySQLCRUD\app\build\intermediates\pre-dexed\debug\com.google.android.gms-play-services-plus-9.0.2_fd2c59d9907f886b2143019ee827bc96d1bf408d.jar" />
+    </item>
+
+</items>
